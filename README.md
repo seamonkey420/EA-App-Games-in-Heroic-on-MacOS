@@ -27,6 +27,8 @@ Fixing EA App after Install:
 
 In Heroic, right click on the EA App, go to Settings.  At the bottom click on winetricks,  then install the d3dcompiler_47 and dotnet48 in winetricks, the dotnet48 will take a few minutes and may show some errors, let it run until you see it shown in the "Installed Components" at the top.
 
+![image](https://github.com/user-attachments/assets/24018dea-45c3-45f9-80c8-879914a8edd9)
+
 In the settings screen, make sure the wine crossover 23.7.1.1-1 for crossover/wine version is set, also check the "auto install/update dxvk on prefix"
 
 
