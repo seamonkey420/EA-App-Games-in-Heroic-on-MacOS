@@ -59,7 +59,9 @@ If you want to do another game, just load up ea app in heroic, uninstall the pre
 
 I have confirmed this working so far with NFS Heat and Madden 22. I will try a few other games later tonight.  Let me know if this worked for ya or not. 
 
+![image](https://github.com/user-attachments/assets/ba728565-8f01-40ff-a859-ba38f76bf677)
+
 ![image](https://github.com/user-attachments/assets/117a3642-2fcb-42ea-a0c9-4e84f1619ab9)
 
 
-sadfas
+
