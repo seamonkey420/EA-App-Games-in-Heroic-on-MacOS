@@ -1,4 +1,10 @@
 # EA-App-Games-in-Heroic-on-MacOS
+moving guide to: https://github.com/seamonkey420/seamonkey420-MacOS-tips/wiki
+
+will leave up for now. Feb 25, 2025
+
+
+
 Just a quick guide on how to get EA App working in Heroic and also how to install individual EA Games in Heroic.
 
 
