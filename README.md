@@ -2,7 +2,8 @@
 moving guide to: https://github.com/seamonkey420/seamonkey420-MacOS-tips/wiki
 
 will leave up for now. Feb 25, 2025
-
+as of MAY 6, 2025; THIS DOES NOT WORK ANYMORE. WHISKY DEV stopped developing whisky. If i find any work around, they will be posted here.
+leaving this up for historical purposes.
 
 
 Just a quick guide on how to get EA App working in Heroic and also how to install individual EA Games in Heroic.
